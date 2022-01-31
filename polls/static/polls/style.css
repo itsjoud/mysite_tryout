@@ -1,0 +1,12 @@
+li a {
+    color: rgb(231, 113, 17);
+    font: 1em sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-variant: small-caps;
+    font-style: oblique;
+    background-color: blueviolet;
+    font-size: xx-large;
+}
+body {
+    background: yellow url("images/backgrounds.gif") no-repeat;
+}
